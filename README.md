@@ -8,8 +8,13 @@
 
 ---
 
-### 🚀 Formação pela EBAC
-Atualmente cursando a **Formação Fullstack Python**, com os seguintes módulos:
+### 🎓 Formação
+- Tecnóloga em **Análise e Desenvolvimento de Sistemas**
+- Atualmente cursando a **Formação Fullstack Python** pela EBAC
+
+---
+
+### 🚀 Conhecimentos em desenvolvimento
 
 - 🔧 **Frontend**: HTML, CSS, JavaScript, jQuery, Bootstrap, React, Vue
 - 🧪 **Testes**: Cypress, React Testing Library
