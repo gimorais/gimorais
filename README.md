@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou a Giovana 👋</h1>
 
-<!--
-**gimorais/gimorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedora Fullstack em formação com foco em <strong>Python backend</strong> e interesse crescente em <strong>Inteligência Artificial</strong>.
+  <br>
+  Buscando transformar conhecimento em soluções de impacto.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Formação pela EBAC
+Atualmente cursando a **Formação Fullstack Python**, com os seguintes módulos:
+
+- 🔧 **Frontend**: HTML, CSS, JavaScript, jQuery, Bootstrap, React, Vue
+- 🧪 **Testes**: Cypress, React Testing Library
+- 🐍 **Backend**: Python, Django, Django REST Framework
+- 🗄️ **Banco de Dados**: SQL, modelagem, índices e performance
+- 🐳 **DevOps**: Git, GitHub, Docker, CI/CD
+- 🧠 **Próximo passo**: Curso de **Inteligência Artificial** e aprofundamento em **Machine Learning**
+
+---
+
+### 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 🎯 Em busca de:
+- Oportunidade como **desenvolvedora backend Python**
+- Projetos ou vagas internacionais (remoto 💻)
+- Futuramente: **área de IA e Machine Learning**
+
+---
+
+### 📬 Vamos nos conectar?
+- 💼 [LinkedIn]([https://www.linkedin.com/in/gimorais/])
+- 📧 gimorais.contato@gmail.com
