@@ -40,5 +40,5 @@ Atualmente cursando a **Formação Fullstack Python**, com os seguintes módulos
 ---
 
 ### 📬 Vamos nos conectar?
-- 💼 [LinkedIn]([https://www.linkedin.com/in/gimorais/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/gimorais/)
 - 📧 gimorais.contato@gmail.com
