@@ -1,9 +1,7 @@
-<h1 align="center">Olá, eu sou a Giovana 👋</h1>
+<h1 align="center">Sobre</h1>
 
 <p align="center">
   Desenvolvedora Fullstack em formação com foco em <strong>Python backend</strong> e interesse crescente em <strong>Inteligência Artificial</strong>.
-  <br>
-  Buscando transformar conhecimento em soluções de impacto.
 </p>
 
 ---
@@ -39,7 +37,7 @@
 
 ### 🎯 Em busca de:
 - Oportunidade como **desenvolvedora backend Python**
-- Projetos ou vagas internacionais (remoto 💻)
+- Projetos ou vagas nacionais e internacionais (remoto 💻)
 - Futuramente: **área de IA e Machine Learning**
 
 ---
